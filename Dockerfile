@@ -1,4 +1,4 @@
-FROM akamai/shell
+FROM akamai/shell:v2.5.0
 
 LABEL "com.github.actions.name"="Akamai Edgeworkers"
 LABEL "com.github.actions.description"="Deploy Edgeworkers via the Akamai API's"
